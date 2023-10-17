@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleSaveDataWithDataStore</string>
+    <string name="top_app_bar_title">Contacts</string>
+    <string name="create_contact_top_app_bar_title">Create contact</string>
+    <string name="save_btn">Save</string>
+    <string name="fab_btn_description">Add fab</string>
+    <string name="first_name_field">First name</string>
+    <string name="last_name_field">Last name</string>
+    <string name="toast_message">Fill in at least one field</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleSaveDataWithDataStore</string>
+    <string name="top_app_bar_title">Контакти</string>
+    <string name="create_contact_top_app_bar_title">Створити контакт</string>
+    <string name="save_btn">Зберегти</string>
+    <string name="fab_btn_description">Кнопка додати</string>
+    <string name="first_name_field">Ім\'я</string>
+    <string name="last_name_field">Прізвище</string>
+    <string name="toast_message">Заповніть хоча б одне поле</string>
+</resources>
